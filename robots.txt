@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: bitchesandgripes.md
+
+Sitemap: https://github.com/bbauska/brians-template, https://brians-template.bauska.org
