@@ -87,20 +87,20 @@ This section includes all of President Trump's endorsements in regularly schedul
 | Susan Collins (R)<a href="https://www.nbcnews.com/now/video/trump-voices-support-for-susan-collins-in-the-maine-senate-race-264880197892">source</a> | Incumbent |  <a href="">U.S. Senate Maine</a> |   General |    Won primary |
 | Cindy Hyde-Smith (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231406031813856">source</a> |   Incumbent |   <a href="">U.S. Senate Mississippi</a>    | Primary |    Won primary |
 | Kurt Alme (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116173854754088612">source</a>  |  Open seat |    <a href="">U.S. Senate Montana</a>    | Primary |    Won primary |
-| Steve Daines (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114378035138845295">source</a>    Incumbent |   <a href="">U.S. Senate Montana</a>    | Primary |    Not on the ballot primary |
-| Pete Ricketts (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114315902995818386">source</a>    Incumbent |   <a href="">U.S. Senate Nebraska</a>    | Primary |    Won primary |
-| John Sununu (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115996882630849069">source</a>    Open seat |   <a href="">U.S. Senate New Hampshire</a>    | Primary |    
-| Michael Whatley (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114953962646647794">source</a>    Open seat |   <a href="">U.S. Senate North Carolina</a>    General    Won primary |
-| Jon Husted (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114308898654506738">source 1</a><a href="https://www.jonhustedforsenate.com/endorsements/">source 2</a>    Incumbent |   <a href="">U.S. Senate Ohio (special)</a>    Primary, General    Won primary |
-| Kevin Hern (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116224634088762061">source</a>    Open seat |   <a href="">U.S. Senate Oklahoma</a>    | Primary |    Won primary |
-| Markwayne Mullin (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114519155449905842">source</a>    Open seat |   <a href="">U.S. Senate Oklahoma</a>    | Primary |    Not on the ballot primary |
-| Lindsey Graham (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231437487201538">source</a>    Incumbent |   <a href="">U.S. Senate South</a> Carolina    | Primary |    Not on the ballot general |
-| Mike Rounds (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114892689845138877">source</a>    Incumbent |   <a href="">U.S. Senate South Dakota</a>    | Primary |    Won primary |
-| Bill Hagerty (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231344319625636">source</a>    Incumbent |   <a href="">U.S. Senate Tennessee</a>    | Primary |    
-| Ken Paxton (R)<a href="https://www.nytimes.com/2026/05/19/us/politics/trump-paxton-endorsement-cornyn-texas-senate.html">source 1</a><a href="https://www.politico.com/news/2026/05/19/trump-endorses-ken-paxton-texas-senate-00927811">source 2</a>    Challenger |   <a href="">U.S. Senate Texas</a>    | Primary | |Runoff, General    Won primary runoff |
-| Shelley Moore Capito (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114518115625400272">source</a>    Incumbent |   <a href="">U.S. Senate West Virginia</a>   | Primary |    Won primary |
-| Cynthia Lummis (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231406967175939">source</a>    Incumbent |   <a href="">U.S. Senate Wyoming</a>    | Primary |   Not on the ballot primary |
-| Harriet Hageman (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115770367420942580">source</a>    Open seat |   <a href="">U.S. Senate Wyoming</a>    | Primary    |
+| Steve Daines (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114378035138845295">source</a>  |  Incumbent |   <a href="">U.S. Senate Montana</a>    | Primary |    Not on the ballot primary |
+| Pete Ricketts (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114315902995818386">source</a>  |  Incumbent |   <a href="">U.S. Senate Nebraska</a>    | Primary |    Won primary |
+| John Sununu (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115996882630849069">source</a>   | Open seat |   <a href="">U.S. Senate New Hampshire</a>    | Primary |    
+| Michael Whatley (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114953962646647794">source</a> |   Open seat |   <a href="">U.S. Senate North Carolina</a>  |  General |   Won primary |
+| Jon Husted (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114308898654506738">source 1</a><a href="https://www.jonhustedforsenate.com/endorsements/">source 2</a> |   Incumbent |   <a href="">U.S. Senate Ohio (special)</a>    Primary, General    Won primary |
+| Kevin Hern (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116224634088762061">source</a>  |  Open seat |   <a href="">U.S. Senate Oklahoma</a>    | Primary |    Won primary |
+| Markwayne Mullin (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114519155449905842">source</a>  |  Open seat |   <a href="">U.S. Senate Oklahoma</a>    | Primary |    Not on the ballot | primary |
+| Lindsey Graham (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231437487201538">source</a> |    Incumbent |   <a href="">U.S. Senate South</a> Carolina    | Primary |    Not on the ballot | general |
+| Mike Rounds (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114892689845138877">source</a>  |  Incumbent |   <a href="">U.S. Senate South Dakota</a>    | Primary |    Won primary |
+| Bill Hagerty (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231344319625636">source</a>  |  Incumbent |   <a href="">U.S. Senate Tennessee</a>    | Primary |    
+| Ken Paxton (R)<a href="https://www.nytimes.com/2026/05/19/us/politics/trump-paxton-endorsement-cornyn-texas-senate.html">source 1</a><a href="https://www.politico.com/news/2026/05/19/trump-endorses-ken-paxton-texas-senate-00927811">source 2</a>    Challenger |   <a href="">U.S. Senate Texas</a>    | Primary | Runoff, General |   Won primary runoff |
+| Shelley Moore Capito (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114518115625400272">source</a>  |  Incumbent |   <a href="">U.S. Senate West Virginia</a>   | Primary |    Won primary |
+| Cynthia Lummis (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231406967175939">source</a>  |  Incumbent |   <a href="">U.S. Senate Wyoming</a>    | Primary |   Not on the ballot primary |
+| Harriet Hageman (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115770367420942580">source</a>  |  Open seat |   <a href="">U.S. Senate Wyoming</a>    | Primary    |
 
 
 ## U.S. House of Representatives endorsements by Donald Trump, 2026
