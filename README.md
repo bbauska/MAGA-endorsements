@@ -3,6 +3,8 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 https://ballotpedia.org/Endorsements_by_Donald_Trump#Regular_endorsements
 
+List of sycophants for democracies destruction. Turning America into a sludge-fund for maggots.
+
 State Senate Leadership & Congressional Bid: Washington State Senate Minority Leader John Braun secured Donald 
 Trump's endorsement in his campaign to unseat incumbent Democrat Marie Gluesenkamp Perez for the U.S. House in 
 the 3rd Congressional District.
