@@ -75,15 +75,15 @@ This section includes all of President Trump's endorsements in regularly schedul
 | ------------ | :------------: | :---------------------------------- | :----------------: | :--------: |
 | Barry Moore (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/115913809230823901">source</a> | Open seat | <a href="">U.S. Senate Alabama</a>        | Primary |        Won primary runoff |
 | Daniel S. Sullivan (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/114892270098322352">source</a> | Incumbent | <a href="">U.S. Senate Alaska</a>    | Primary |
-| Tom Cotton (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/114826040324238044">source</a>    | Incumbent    | <a href="">U.S. Senate Arkansas</a>    Primary    | Won primary |
+| Tom Cotton (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/114826040324238044">source</a>    | Incumbent    | <a href="">U.S. Senate Arkansas</a>|  Primary    | Won primary |
 | Mike Collins (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/116754019906128212">source</a>    | Challenger | <a href="">U.S. Senate Georgia</a>    | Primary Runoff |    Won primary runoff |
 | Jim Risch (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/114196247731494277">source</a> | Incumbent |  <a href="">U.S. Senate Idaho</a> | Primary |  Won primary |
 | Ashley Hinson (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/115154159518653872">source</a> | Open seat |   <a href="">U.S. Senate Iowa</a>    | Primary |   Won primary |
 | Roger Marshall (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/114826039777950636">source</a> |   Incumbent  |  <a href="">U.S. Senate Kansas</a>| Primary |
 | Andy Barr (R) <a href="https://x.com/NateMorris/status/2050357468329398785?utm_source=substack&utm_medium=email">source</a> | Open seat | <a href="">U.S. Senate Kentucky</a> | Primary |   Won primary |
+| Julia Letlow (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/115913724519885202">source</a> | Challenger |    <a href="">U.S. Senate Louisiana</a>  |  Primary |    Won primary runoff |
+| Susan Collins (R)<a href="https://www.nbcnews.com/now/video/trump-voices-support-for-susan-collins-in-the-maine-senate-race-264880197892">source</a> | Incumbent |  <a href="">U.S. Senate Maine</a> |   General |    Won primary |
 
-Julia Letlow (R) <a href="https://truthsocial.com/@realDonaldTrump/posts/115913724519885202">source</a>    Challenger    <a href="">U.S. Senate Louisiana</a>    Primary    Won primary runoff
-Susan Collins (R)<a href="https://www.nbcnews.com/now/video/trump-voices-support-for-susan-collins-in-the-maine-senate-race-264880197892">source</a>    Incumbent    <a href="">U.S. Senate Maine</a>    General    Won primary
 Cindy Hyde-Smith (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114231406031813856">source</a>    Incumbent    <a href="">U.S. Senate Mississippi</a>    Primary    Won primary
 Kurt Alme (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116173854754088612">source</a>    Open seat    <a href="">U.S. Senate Montana</a>    Primary    Won primary
 Steve Daines (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114378035138845295">source</a>    Incumbent    <a href="">U.S. Senate Montana</a>    Primary    Not on the ballot primary
