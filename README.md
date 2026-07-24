@@ -107,8 +107,8 @@ This section includes all of President Trump's endorsements in regularly schedul
 | Candidate    | Status         | Office sought                       | Endorsement type   | Outcome    |
 | ------------ | :------------: | :---------------------------------- | :----------------: | :--------: |
 | Jerry Carl (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116795239595013935">source</a>   | Open seat |    <a href="https://ballotpedia.org/Alabama's_1st_Congressional_District">U.S. House Alabama District 1 (special)</a> |   Primary  | |
-| Rhett Marques (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116795238055514720">source</a> | Challenger | <a href="">U.S. House Alabama District 2 (special)</a> |  Primary    | |
-| Mike Rogers (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483397195615826">source</a> |   Incumbent |   <a href="">U.S. House Alabama District 3</a> |    Primary |   Won primary |
+| Rhett Marques (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116795238055514720">source</a> | Challenger | <a href="">U.S. House Alabama District 2 (special)</a> |  Primary    |
+| Mike Rogers (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483397195615826">source</a> |   Incumbent |   <a href="">U.S. House Alabama District 3</a> |  Primary |   Won primary |
 | Robert Aderholt (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483398591251199">source</a> |  Incumbent |   <a href="">U.S. House Alabama District 4</a> | Primary  |  Won primary |
 | Dale Strong (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483400223477879">source</a> |   Incumbent |   <a href="">U.S. House Alabama District 5</a>    | Primary |    Won primary |
 | Gary Palmer (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483401027909719">source</a> |   Incumbent |   <a href="">U.S. House Alabama District 6</a>    | Primary |    Won primary |
