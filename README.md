@@ -118,10 +118,10 @@ This section includes all of President Trump's endorsements in regularly schedul
 | Juan Ciscomani (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114417101345799325">source</a> |   Incumbent |   <a href="">U.S. House Arizona District 6</a>    | Primary |    Won primary |
 | Abraham Hamadeh (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114691752952220639">source</a> |   Incumbent |   <a href="">U.S. House Arizona District 8</a>    | Primary |    Won primary |
 | Paul Gosar (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115414670134103540">source</a> |   Incumbent |   <a href="">U.S. House Arizona District 9</a>    | Primary |    Won primary |
-| Rick Crawford (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483376777280289">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 1</a>    Primary, General    Won primary |
+| Rick Crawford (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483376777280289">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 1</a> |   Primary, General |   Won primary |
 | French Hill (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483382708030237">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 2</a>    | Primary |    Won primary |
-| Steve Womack (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483375767326344">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 3</a>    Primary, General    Won primary |
-| Bruce Westerman (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483381794647329">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 4</a>    Primary, General    Won primary |
+| Steve Womack (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483375767326344">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 3</a>  |  Primary, General |   Won primary |
+| Bruce Westerman (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115483381794647329">source</a> |   Incumbent |   <a href="">U.S. House Arkansas District 4</a> |   Primary, General |   Won primary |
 | James Gallagher (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116677931001186167">source</a> |   Open seat |   <a href="">U.S. House California District 1 (special)</a>    | Primary |    Won primary |
 | James Gallagher (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116677931001186167">source</a> |   Incumbent |   <a href="">U.S. House California District 1</a>    | Primary |    Won primary |
 | Kevin Lincoln II (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115742571489420298">source</a> |   Challenger |   <a href="">U.S. House California District 13</a>    | Primary |    Won primary |
@@ -157,7 +157,7 @@ Maria Elvira Salazar (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/
 | James Kingston (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116404472864736440">source</a> |   Open seat |   U.S. House Georgia District 1</a>    | Primary |    Won primary |
 | Houston Gaines (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116404524514355598">source</a> |   Open seat |   U.S. House Georgia District 10</a>    | Primary |    Won primary |
 | Barry Loudermilk (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114876638674610838">source</a> |   Incumbent |   U.S. House Georgia District 11</a>    | Primary |    Not on the ballot primary |
-| John Cowan (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116914437675973643">source</a> |   Open seat |   U.S. House Georgia District 11</a>    General    Won | Primary | runoff |
+| John Cowan (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116914437675973643">source</a> |   Open seat |   U.S. House Georgia District 11</a>    | General |   Won  Primary runoff |
 | Rick Allen (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115946865805351323">source</a> |   Incumbent |   U.S. House Georgia District 12</a>    | Primary |    Won primary |
 | Clayton Fuller (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116014966605970564">source</a> |   Open seat |   U.S. House Georgia District 14</a> (special)    | Primary |    Won general runoff |
 | Brian Jack (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115946872610760164">source</a> |   Incumbent |   U.S. House Georgia District 3</a>    | Primary |    Won primary |
@@ -169,7 +169,7 @@ Maria Elvira Salazar (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/
 | Mike Bost (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/114474464809294039">source</a> |   Incumbent |   <a href="">U.S. House Illinois District 12</a>    | Primary |    Won primary |
 | Mary Miller (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115057223325978530">source</a> |   Incumbent |   <a href="">U.S. House Illinois District 15</a>    | Primary |    Won primary |
 | Darin LaHood (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115434866506983325">source</a> |   Incumbent |   <a href="">U.S. House Illinois District 16</a>    | Primary |    Won primary |
-| Barb Regnitz (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116914697761678481">source</a> |   Challenger |   <a href="">U.S. House Indiana District 1</a>    General   | Won primary |
+| Barb Regnitz (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116914697761678481">source</a> |   Challenger |   <a href="">U.S. House Indiana District 1</a>  |  General   | Won primary |
 | Rudy Yakym (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/116382105271047123">source</a> |   Incumbent |   <a href="">U.S. House Indiana District 2</a>    | primary |    Won primary |
 | Marlin A. Stutzman (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115434867478490056">source</a> |   Incumbent |   <a href="">U.S. House Indiana District 3</a>    | Primary |    Won primary |
 | Jim Baird (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/115946864062168710">source</a> |   Incumbent |   <a href="">U.S. House Indiana District 4</a>    | Primary |    Won primary |
@@ -238,19 +238,18 @@ Maria Elvira Salazar (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/
 | Nick Langworthy (R)<a href="">source</a> |   Incumbent |   U.S. House New York District 23    | Primary |    Won primary |
 | Claudia Tenney (R)<a href="">source</a> |   Incumbent |   U.S. House New York District 24    | Primary |    Won primary |
 | Michael LiPetri Jr. (R)<a href="">source</a> |   Challenger |   U.S. House New York District 3    | Primary |    Won primary |
-| Jeanine Driscoll (R)<a href="">source</a> |   Challenger |   U.S. House New York District 4    General    Won primary |
-| Laurie Buckhout (R)<a href="">source</a> |   Challenger |   U.S. House North Carolina District 1    General    Won primary |
-| Pat Harrigan (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 10    | Primary |    Won primary |
-| Chuck Edwards (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 11    | Primary |    Won primary |
-| Brad Knott (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 13    | Primary |    Won primary |
-| Timothy K. Moore (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 14    | Primary |    Won primary |
-| Gregory Murphy (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 3    Primary, General    Won primary |
+| Jeanine Driscoll (R)<a href="">source</a> |   Challenger |   U.S. House New York District 4  |  General | Won primary |
+| Laurie Buckhout (R)<a href="">source</a> |   Challenger |   U.S. House North Carolina District 1 |  General | Won primary |
+| Pat Harrigan (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 10   | Primary | Won primary |
+| Chuck Edwards (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 11  | Primary | Won primary |
+| Brad Knott (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 13    | Primary | Won primary |
+| Timothy K. Moore (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 14 | Primary | Won primary |
+| Gregory Murphy (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 3 | Primary, General | Won primary |
 | Virginia Foxx (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 5    | Primary |    Won primary |
-| Addison McDowell (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 6    Primary, General    Won primary |
 | David Rouzer (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 7    | Primary |    Won primary |
-| Mark Harris (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 8    Primary, General    Won primary |
-| Richard Hudson (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 9    Primary, General    Won primary |
-| Julie Fedorchak (R)<a href="">source</a> |   Incumbent |   U.S. House North Dakota At-large District    | Primary |    Won primary |
+| Mark Harris (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 8 | Primary, General | Won primary |
+| Richard Hudson (R)<a href="">source</a> |   Incumbent |   U.S. House North Carolina District 9 | Primary, General | Won primary |
+| Julie Fedorchak (R)<a href="">source</a> |   Incumbent |   U.S. House North Dakota At-large District | Primary | Won primary |
 | Eric Conroy (R)<a href="">source</a> |   Challenger |   U.S. House Ohio District 1    | Primary |    Won primary |
 | Michael Turner (R)<a href="">source</a> |   Incumbent |   U.S. House Ohio District 10    | Primary |    Won primary |
 | Troy Balderson (R)<a href="">source</a> |   Incumbent |   U.S. House Ohio District 12    | Primary |    Won primary |
@@ -262,8 +261,8 @@ Maria Elvira Salazar (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/
 | Michael Rulli (R)<a href="">source</a> |   Incumbent |   U.S. House Ohio District 6    | Primary |    Won primary |
 | Max Miller (R)<a href="">source</a> |   Incumbent |   U.S. House Ohio District 7    | Primary |    Won primary |
 | Warren Davidson (R)<a href="">source</a> |   Incumbent |   U.S. House Ohio District 8    | Primary |    Won primary |
-| Derek Merrin (R)<a href="">source</a> |   Challenger |   U.S. House Ohio District 9    General    Won primary |
-| Jackson Lahmeyer (R)<a href="">source</a> |   Open seat |   U.S. House Oklahoma District 1    | Primary |    Not on the ballot | Primary runoff |
+| Derek Merrin (R)<a href="">source</a> |   Challenger |   U.S. House Ohio District 9  |  General |  Won primary |
+| Jackson Lahmeyer (R)<a href="">source</a> |   Open seat |   U.S. House Oklahoma District 1  | Primary | Not on the ballot | Primary runoff |
 | Kevin Hern (R)<a href="">source</a> |   Incumbent |   U.S. House Oklahoma District 1    | Primary |    Not on the ballot primary |
 | Mark Tedford (R)<a href="">source</a> |   Open seat |   U.S. House Oklahoma District 1  |  General |   Won primary | runoff |
 | Josh Brecheen (R)<a href="">source</a> |   Incumbent |   U.S. House Oklahoma District 2    | Primary |    Won primary |
@@ -280,7 +279,7 @@ Maria Elvira Salazar (R)<a href="https://truthsocial.com/@realDonaldTrump/posts/
 | Ryan Mackenzie (R)<a href="">source</a> |   Incumbent |   U.S. House Pennsylvania District 7    | Primary |    Won primary |
 | Rob Bresnahan Jr. (R)<a href="">source</a> |   Incumbent |   U.S. House Pennsylvania District 8    | Primary |    Won primary |
 | Dan Meuser (R)<a href="">source</a> |   Incumbent |   U.S. House Pennsylvania District 9    | Primary |    Won primary |
-| Jenny Honeycutt (R)<a href="">source</a> |   Open seat |   U.S. House South Carolina District 1    General    Won primary runoff |
+| Jenny Honeycutt (R)<a href="">source</a> |   Open seat |   U.S. House South Carolina District 1 | General | Won primary runoff |
 | Joe Wilson (R)<a href="">source</a> |   Incumbent |   U.S. House South Carolina District 2    | Primary |    Won primary |
 | Sheri Biggs (R)<a href="">source</a> |   Incumbent |   U.S. House South Carolina District 3    | Primary |    Won primary |
 | William Timmons (R)<a href="">source</a> |   Incumbent |   U.S. House South Carolina District 4    | Primary |    Won primary |
